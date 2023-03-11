@@ -781,7 +781,9 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+.condition {
+  color: #2196f3;
+}
 .checkbox {
   display: none;
 }
